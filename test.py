@@ -3,7 +3,7 @@
 
 def main() -> None:
 	print("Hello, world!")
-	print("This is a test script.")
+	print("This is a test script1.")
 
 
 if __name__ == "__main__":
